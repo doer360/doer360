@@ -9,27 +9,7 @@
 }
 .box_1 {
 }
-.box_2 {
-}
-.box_3 {
-}
-.ellipse {
-}
-._形状 {
-  font-family:'ArialMT', 'Arial';
-  font-weight:400;
-  font-style:normal;
-  font-size:13px;
-  color:#1E1E1E;
-  text-align:center;
-  line-height:normal;
-}
 .image {
-}
-.placeholder {
-}
-.primary_button {
-  color:#FFFFFF;
 }
 ._一级标题 {
   font-family:'ArialMT', 'Arial';
@@ -79,9 +59,20 @@
 ._文本段落 {
   text-align:left;
 }
-.line {
+._文本链接 {
+  color:#0000FF;
 }
 ._流程形状 {
+}
+.icon {
+}
+.box_3 {
+}
+.ellipse {
+}
+.box_2 {
+}
+.line {
 }
 ._连接线 {
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -92,10 +83,70 @@
   text-align:center;
   line-height:normal;
 }
-.icon {
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.link_button {
+  color:#169BD5;
+}
+._鼠标悬停文本链接时 {
+}
+._鼠标按下文本链接时 {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.button {
+}
+.tree_node {
+  text-align:left;
+}
+.image1 {
+  color:#000000;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.table_cell {
+}
+.radio_button {
+  text-align:left;
+}
+.shape {
+}
+.image2 {
+  color:#000000;
+}
+.box_21 {
+}
+.box_11 {
+}
+._图片 {
+}
+.label1 {
+  font-size:14px;
+  text-align:left;
 }
 .flow_shape {
 }
-._图像 {
+.sticky_1 {
+  text-align:left;
+}
+.html_button {
+  text-align:center;
+}
+.placeholder {
+}
+.list_box {
   color:#000000;
+  text-align:left;
 }
